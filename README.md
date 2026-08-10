@@ -1,4 +1,4 @@
-# 🚀 Karan Codex - Software Company Website
+# 🚀 Karan Codex
 
 This is a modern, responsive website for a software company, SaaS product, or tech startup built using **Next.js**, **Tailwind CSS**, and **TypeScript**. It includes pages like Home, About, Services, Contact, and more.
 
